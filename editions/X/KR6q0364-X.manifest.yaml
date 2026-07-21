@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0364_000-X.yaml, hash: 'sha256:cf61f854943bc417005bcdda43bf0654ac8d6b6f78bf39015eb30face5eb4d5d'}
+  - {seq: 0, filename: KR6q0364_000-X.yaml, hash: 'sha256:a6c1e4f0275ed28f77c956834fe57ffdaf1a3ce177ec2b99fe1924817443622f'}
   - {seq: 1, filename: KR6q0364_001-X.yaml, hash: 'sha256:4431475853fa3c34133da7093200ef3a5bc26239f4198a79d17587f47bd6f399'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0364_000-X.markers.yaml, hash: 'sha256:4405f9357a5105f38898c0a97abcf6539b9882acfd29ec4338638955edc5a62a'}
+  - {seq: 0, role: markers, filename: assets/KR6q0364_000-X.markers.yaml, hash: 'sha256:a24e34524b35f5027a5523d108801b9d54a5cc9c48e1046b5d474a0cab3203bc'}
   - {seq: 1, role: markers, filename: assets/KR6q0364_001-X.markers.yaml, hash: 'sha256:1d504849fd41a68d6f57cfb4a0d4adb29caf67516a066e26b72d6238360fc6f8'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0364_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1434-A 壽昌見如大師語錄序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0364_X_000-mulu-2
     span:
-    - front
+    - body
     - 598
     - 598
   label: No. 1434-B
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0364_X_000-mulu-3
     span:
-    - front
+    - body
     - 849
     - 849
   label: 目次
@@ -655,4 +655,4 @@ table_of_contents:
   label: 行實
   type: mulu
   level: 1
-hash: sha256:c38b11fe609c8e5cc6a7565ba23920e29ea205e5c7e478df41a426f45303ced7
+hash: sha256:350cba11d8aa86618835cd36099b1cb7d8afcbf81046b9898a0e1fc0cd781629
